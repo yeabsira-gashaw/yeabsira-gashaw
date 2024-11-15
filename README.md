@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there! 👋 Welcome to My GitHub Profile
 
-<!--
-**yeabsira-gashaw/yeabsira-gashaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Yeabsira Gashaw**, a passionate and experienced developer with a strong background in building scalable applications and leading innovative tech projects. Here’s a bit about me and what you’ll find in my repository:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Current Work
+- **CTO at EagleLion System Technology**: Leading projects that bridge fintech, AI, and technology to provide impactful solutions.
+- **Tech Projects**: Working on groundbreaking projects including fintech apps, real-time data analysis systems, and secure transaction platforms.
+
+#### 🌱 Continuous Learning
+- I’m expanding my knowledge in **Machine Learning** and **AI** to stay ahead in the tech curve and build future-proof solutions.
+- Currently diving deep into **advanced cloud technologies** and enhancing system security measures.
+
+#### 💬 Let's Collaborate!
+- I love discussing and collaborating on projects related to:
+  - **Full-stack development**
+  - **Real-time systems and optimizations**
+  - **Machine learning and data analytics**
+
+#### 🤝 Open to Mentorship & Connections
+- Whether you're starting out in tech or looking for advice on leading tech teams, I’m here to help. Let's learn and grow together!
+
+#### 📫 How to Reach Me
+- Connect with me through [LinkedIn](https://linkedin.com/in/yeabsira-gashaw) or drop me an email at **yeabsira@eaglelionsystems.com**.
+
+#### ⚡ Fun Fact
+- When I’m not coding, you’ll find me exploring new tech gadgets or playing strategy board games.
+
+---
+
+Take a look at my repositories below for projects and code snippets that reflect my journey and expertise. I’m excited to share my work and learn from the community!
+
+Happy coding! 🚀
